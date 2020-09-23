@@ -13,7 +13,6 @@ public class Fase3APP {
 		String city_6 = "Santander";
 
 		String[] cityNames = {city_1, city_2, city_3, city_4, city_5, city_6};
-		Arrays.parallelSort(cityNames);
 		
 		// Fase3 Exercise
 		
